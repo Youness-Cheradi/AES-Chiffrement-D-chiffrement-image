@@ -1,2 +1,2 @@
 # AES-Chiffrement-Dchiffrement-image
-Application de chiffrement et déchiffrement des images, basé sur les algorithmes de cryptographie comme DWT pour la compression et AES pour le chiffrement/déchiffrement. 
+Ce projet vise à réaliser un crypto système basé sur une compression par ondelettes et un algorithme de cryptage AES fondé sur la méthode de chiffrement par blocs (Block Cipher). Le projet consiste, dans un premier temps, à appliquer le processus de compression pour réduire la taille des images et puis, dans un second temps, de crypter chaque image compressée pour la sécuriser. La compression est basée sur la transformation en ondelette (DWT: Discrete Wavelet Transform), tandis que l'approche de cryptage est basé sur le chiffrement AES.  
